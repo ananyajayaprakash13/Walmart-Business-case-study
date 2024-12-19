@@ -21,6 +21,7 @@ The dataset has the following features:
 - Marital_Status:	Marital Status
 - ProductCategory:	Product Category (Masked)
 - Purchase:	Purchase Amount
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------# 📊Insights and Recommendations
 
 ## Insights:
