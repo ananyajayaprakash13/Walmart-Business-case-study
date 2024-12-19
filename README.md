@@ -22,7 +22,8 @@ The dataset has the following features:
 - ProductCategory:	Product Category (Masked)
 - Purchase:	Purchase Amount
   
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------# 📊Insights and Recommendations
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+📊Insights and Recommendations
 
 ## Insights:
 - **Gender and Spending**: Differences may exist in spending patterns between males and females, with confidence intervals indicating more precise estimates for larger sample sizes.
