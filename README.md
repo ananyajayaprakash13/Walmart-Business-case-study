@@ -37,6 +37,6 @@ The dataset has the following features:
 3. **Customer Segmentation**: Segment customers further based on demographics for tailored shopping experiences.
 4. **Inventory Management**: Align inventory with product preferences of different demographics.
 
-# 📂Business Case Colab Link
+## 📂Business Case Colab Link
 [Click here to view the project in Colab](https://colab.research.google.com/drive/1teh-5anzc9vdsEVSIZXaNuP4aQ-dEfjP?usp=sharing)
 
